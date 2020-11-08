@@ -1,1 +1,119 @@
-{}
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "CGN-20-4",
+      "chosen": ["1-2-3", "4-5-6", "7-8-9", "10-11-12", "13-14-15", "16-17-18"],
+      "deleted": false,
+      "history": [
+        {
+          "id": 1,
+          "date": "1-10-2020",
+          "chosenids": [
+            "1-2-3",
+            "4-5-6",
+            "7-8-9",
+            "10-11-12",
+            "13-14-15",
+            "16-17-18"
+          ]
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "name": "Alexis Roehrling"
+        },
+        {
+          "id": 2,
+          "name": "Atahan Özbanazi"
+        },
+        {
+          "id": 3,
+          "name": "Béla Müller"
+        },
+        {
+          "id": 4,
+          "name": "Benjamin Weinstock"
+        },
+        {
+          "id": 5,
+          "name": "Carolin Meier"
+        },
+        {
+          "id": 6,
+          "name": "Dominique Kolbe"
+        },
+        {
+          "id": 7,
+          "name": "Franziska Klaus"
+        },
+        {
+          "id": 8,
+          "name": "Kathrin Schmitz"
+        },
+        {
+          "id": 9,
+          "name": "Laura Vikanis"
+        },
+        {
+          "id": 10,
+          "name": "Lucas Naas"
+        },
+        {
+          "id": 11,
+          "name": "Marie Groß"
+        },
+        {
+          "id": 12,
+          "name": "Matthias Heisterkamp"
+        },
+        {
+          "id": 13,
+          "name": "Matthias Rodrigues de França"
+        },
+        {
+          "id": 14,
+          "name": "Nicolas Becker"
+        },
+        {
+          "id": 15,
+          "name": "Philipp Fell"
+        },
+        {
+          "id": 16,
+          "name": "René Schmitz"
+        },
+        {
+          "id": 17,
+          "name": "Sina Scheckenbach"
+        },
+        {
+          "id": 18,
+          "name": "Sven Lohmann"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "chosen": [],
+      "history": [],
+      "deleted": false,
+      "members": [
+        {
+          "id": 1,
+          "name": "Luise"
+        },
+        {
+          "id": 2,
+          "name": "Maike"
+        },
+        {
+          "id": 3,
+          "name": "Martin"
+        }
+      ]
+    }
+  ]
+}
